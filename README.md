@@ -13,4 +13,4 @@ Modern bir yapılacaklar listesi uygulaması.
 
 ## Canlı site
 
-https://rumeysakonacak.github.io/todo-list-app/
+https://rumeysakoncak.github.io/todo-list-app/
